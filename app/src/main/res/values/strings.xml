@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="welcome">Choose Your Modules</string>
+    <string name="module1">C346 Android Programming</string>
+    <string name="module2">C218 UI/UX Design For Apps</string>
+    <string name="module3">C206 Software Development Process</string>
+    <string name="module4">C203 Web Application in PHP</string>
+    <string name="module5">C235 IT Security and Management</string>
+</resources>
